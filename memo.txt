@@ -1,1 +1,2 @@
-master
+branch1 A
+branch2 A
