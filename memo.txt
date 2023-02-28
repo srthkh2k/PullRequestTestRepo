@@ -1,3 +1,2 @@
 branch1 A
-branch1 B
-
+branch2 A
